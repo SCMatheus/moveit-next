@@ -2,7 +2,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/made%20by-MATHEUS%20CARDOSO-blueviolet">
-  <img alt="https://img.shields.io/badge/linguagens-2-blueviolet">
+  <img src="https://img.shields.io/badge/linguagens-2-blueviolet">
 </p>
 
 <img align="right" src="public/icon.svg" width="35%" alt="Move.it">
