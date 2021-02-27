@@ -5,7 +5,7 @@
   <img alt="https://img.shields.io/badge/linguagens-2-blueviolet">
 </p>
 
-<img align="right" src="public/favicon.png" width="35%" alt="Move.it">
+<img align="right" src="public/icon.svg" width="35%" alt="Move.it">
 
 ## Tópicos 
 
