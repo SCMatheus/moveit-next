@@ -27,7 +27,7 @@ O Move.it é um App que utiliza a técnica de [pomodoro](https://pt.wikipedia.or
 
 <p align="center">
   <a href="https://www.figma.com/file/n9J6604nMGB7Cgt2vEVtWb/Move.it-1.0-Dark-Mode">
-    <img alt="Figma" src="https://img.shields.io/badge/figma%20-%236E40C9.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+    <img alt="Figma" src="public/capa.png"/>
   </a>
 </p>
 
@@ -80,7 +80,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Rafael Martins](https://github.com/martins-rafael)
+Feito por [Matheus Cardoso ](https://github.com/SCMatheus)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cardoso-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cardoso-b378841a5/)](https://www.linkedin.com/in/matheus-cardoso-b378841a5/) 
+[![Gmail Badge](https://img.shields.io/badge/-matheusouzacardoso2016@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusouzacardoso2016@gmail.com)](mailto:matheusouzacardoso2016@gmail.com)
