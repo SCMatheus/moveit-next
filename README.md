@@ -1,7 +1,7 @@
 # Move.it
 
 <p>
-  <img src="https://img.shields.io/badge/made%20by-MATHEUS%20CARDOSO-blueviolet">
+  <img src="https://img.shields.io/badge/feito%20por-MATHEUS%20CARDOSO-blueviolet">
   <img src="https://img.shields.io/badge/linguagens-2-blueviolet">
 </p>
 
